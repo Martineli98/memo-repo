@@ -1,0 +1,2 @@
+# memo-repo
+ my journey
